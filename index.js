@@ -12,7 +12,7 @@ function johnLennonFacts (facts) {
     facts[f].push(facts[f]+"!!!");
     f++;
   }
-  return fact;
+  return facts;
 }
 
 function iLoveTheBeatles (n) {
